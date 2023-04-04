@@ -1,0 +1,1263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LoadOrderProfile>
+  <Mods>
+    <Mod>
+      <IsEnabled>false</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Hard Mode (HardMode\HardMode0.dll V0.0.0.0)</DisplayText>
+      <IncludedPath>%CITIES%\Files\Mods\HardMode</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>false</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Unlimited Money (UnlimitedMoney\UnlimitedMoney2.dll V0.0.0.0)</DisplayText>
+      <IncludedPath>%CITIES%\Files\Mods\UnlimitedMoney</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>false</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Unlimited Oil And Ore (UnlimitedOilAndOre\UnlimitedOilAndOre.dll V1.0.0.0)</DisplayText>
+      <IncludedPath>%CITIES%\Files\Mods\UnlimitedOilAndOre</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>false</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Unlimited Soil (UnlimitedSoil\UnlimitedSoil.dll V1.0.0.0)</DisplayText>
+      <IncludedPath>%CITIES%\Files\Mods\UnlimitedSoil</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>false</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Unlock All (UnlockAll\UnlockAll.dll V1.0.0.0)</DisplayText>
+      <IncludedPath>%CITIES%\Files\Mods\UnlockAll</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>false</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>My Second Mod (modTest\modTest.dll V1.0.0.0)</DisplayText>
+      <IncludedPath>%LOCALAPPDATA%\Addons\Mods\modTest</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>AutoLineColor Redux (AutoLineColor.dll V1.0.6756.6913)</DisplayText>
+      <IncludedPath>%WORKSHOP%\1415090282</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Parallel Road Tool 3.0.2 (ParallelRoadTool.dll V3.0.2.0)</DisplayText>
+      <IncludedPath>%WORKSHOP%\1440928803</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Hide It! (HideIt.dll V1.27.8481.22905)</DisplayText>
+      <IncludedPath>%WORKSHOP%\1591417160</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Move It 2.10.3 (MoveIt.dll V2.10.3.35549)</DisplayText>
+      <IncludedPath>%WORKSHOP%\1619685021</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>TM:PE 11.7.4.0 STABLE (TrafficManager.dll V11.7.4.18481)</DisplayText>
+      <IncludedPath>%WORKSHOP%\1637663252</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Network Skins (NetworkSkins.dll V1.2.8391.39938)</DisplayText>
+      <IncludedPath>%WORKSHOP%\1758376843</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Render It! (RenderIt.dll V1.36.8481.19668)</DisplayText>
+      <IncludedPath>%WORKSHOP%\1794015399</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Undo It! (UndoMod.dll V1.0.0.0)</DisplayText>
+      <IncludedPath>%WORKSHOP%\1890830956</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>RM Crossings 3.3  (HideCrosswalks.dll V3.3.1.15826)</DisplayText>
+      <IncludedPath>%WORKSHOP%\1934023593</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Automatic Pedestrian Bridge2.2 (PedestrianBridge.dll V2.2.0.38994)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2030755273</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Harmony 2.2.2-0 (CitiesHarmony.dll V1.0.8382.20803)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2040656402</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Patch Loader Mod v2.2.0 (PatchLoaderMod.dll V2.2.0.36265)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2041457644</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>FPS Booster 0.8.3 (FPS_Booster.dll V0.8.3.43126)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2105755179</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Find It! 2.9.4-2 (FindIt.dll V2.9.4.0)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2133885971</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Intersection Marking Tool 1.14 (IntersectionMarkingTool.dll V1.14.0.1)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2140418403</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Picker 4.0.1 (Picker.dll V4.0.1.40321)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2172488844</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Unified UI 2.2 (UnifiedUIMod.dll V2.2.12.31978)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2255219025</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Zoning Adjuster 1.6.1 (ZoningAdjuster.dll V1.6.1.0)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2389414419</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Yet Another Toolbar 1.1.6-2 (YetAnotherToolbar.dll V1.1.6.2)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2448994345</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>EYM: Enlighten Your Mouse 1.2 (EnlightenYourMouse.dll V1.2.0.0)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2455665392</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Node Controller Renewal 3.4.0.2 (NodeControllerRenewal.dll V3.4.0.2)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2472062376</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>CSL Music Mod (CSLMusicMod.dll V1.0.6922.38048)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2474585115</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Network Multitool 1.3.3.5 (NetworkMultitool.dll V1.3.3.5)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2560782729</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>false</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Image Overlay Renewal 1.8.3 (ImageOverlayRenewal.dll V1.8.3.0)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2616880500</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Load Order Mod 1.16 (LoadOrderMod.dll V1.16.0.34154)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2620852727</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Upgrade Untouchable 1.1 (UpgradeUntouchable.dll V1.1.0.2)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2629141193</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Control It! (ControlIt.dll V1.4.8481.18456)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2723628116</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Play It! (PlayIt.dll V1.19.8481.19008)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2741726428</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Game Anarchy 0.9.8 (GameAnarchy.dll V0.9.8.0)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2781804786</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>The Mix 107.77 Expanded (TheMixExpanded0.dll V0.0.0.0)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2840597761</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Loading Screen Mod Revisited 1.1.5 (LoadingScreenModRevisited.dll V1.1.5.0)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2858591409</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Network Anarchy 3.2.1 (NetworkAnarchy.dll V3.2.1.2894)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2862881785</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Extra Landscaping Tools (NaturalResourcesBrush.dll V1.0.0.0)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2862940316</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Forest Brush Revisited v1.3.14 (ForestBrushRevisited.dll V1.3.14.36976)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2869784351</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Compatibility Report v2.3.2 (CompatibilityReport.dll V2.3.2.19912)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2881031511</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Extended Managers 1.0.10.1 (EManagersLib.dll V1.0.10.1)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2949127226</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Theme Mixer 2.5 (ThemeMixer.dll V1.0.0.0)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2954236385</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>City Vitals Watch (CityVitalsWatch.dll V1.0.0.0)</DisplayText>
+      <IncludedPath>%WORKSHOP%\410151616</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Font Selector (FontSelector.dll V0.9.4.158)</DisplayText>
+      <IncludedPath>%WORKSHOP%\412149127</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Precision Engineering (PrecisionEngineering.dll V1.0.1.0)</DisplayText>
+      <IncludedPath>%WORKSHOP%\445589127</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>false</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>ModTools (ModTools.dll V3.7.10.35386)</DisplayText>
+      <IncludedPath>%WORKSHOP%\450877484</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>false</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Extra Landscaping Tools (NaturalResourcesBrush.dll V1.0.0.0)</DisplayText>
+      <IncludedPath>%WORKSHOP%\502750307</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>false</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Prefab Hook (PrefabHook.dll V1.0.0.0)</DisplayText>
+      <IncludedPath>%WORKSHOP%\530771650</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Random Tree Rotation (RandomTreeRotation.dll V1.0.0.0)</DisplayText>
+      <IncludedPath>%WORKSHOP%\556784825</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Surface Painter (SurfacePainter.dll V1.0.0.0)</DisplayText>
+      <IncludedPath>%WORKSHOP%\689937287</IncludedPath>
+    </Mod>
+    <Mod>
+      <IsEnabled>true</IsEnabled>
+      <IsIncluded>true</IsIncluded>
+      <LoadOrder>1000</LoadOrder>
+      <DisplayText>Camera Positions Utility (CameraPositions.dll V1.0.0.0)</DisplayText>
+      <IncludedPath>%WORKSHOP%\898480258</IncludedPath>
+    </Mod>
+  </Mods>
+  <Assets>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Ability to Read(Ability to Read.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\1145223801\Ability to Read.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>r69-daihatsu-hijet(r69-daihatsu-hijet.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\1177502798\r69-daihatsu-hijet.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>pedestrian-bike-path(pedestrian-bike-path.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\1179876942\pedestrian-bike-path.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Seychelles(Seychelles.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\1230769688\Seychelles.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>lg net concrete retaining wall(lg net concrete retaining wall.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\1276334651\lg net concrete retaining wall.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>PedSidewalk_steam(PedSidewalk.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\1355634745\PedSidewalk.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Sidewalk_HandrailProp(Sidewalk_HandrailProp.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\1355634745\Sidewalk_HandrailProp.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Sidewalk_InnerSupport(Sidewalk_InnerSupport.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\1355634745\Sidewalk_InnerSupport.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Sidewalk_Pillar(Sidewalk_Pillar.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\1355634745\Sidewalk_Pillar.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Retaining Wall No Fence(Retaining Wall No Fence.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\1373980897\Retaining Wall No Fence.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Retaining Wall With Fence(Retaining Wall With Fence.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\1373980897\Retaining Wall With Fence.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>stain2_kaminogi(stain2_kaminogi.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\1373980897\stain2_kaminogi.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>BP Suburban Powerline(BP Suburban Powerline.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\1395165665\BP Suburban Powerline.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>FlatX2(FlatX2.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\1468227932\FlatX2.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>FlatX8(FlatX8.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\1468227932\FlatX8.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>TramBxLong(TramBxLong.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\1581423886\TramBxLong.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>TramBxShort(TramBxShort.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\1581423886\TramBxShort.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>new208(new208.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\1895802943\new208.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Sp3-TerraformNet-0.5U(Sp3-TerraformNet-0%002E5U.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2105051034\Sp3-TerraformNet-0%002E5U.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Sp3-TerraformNet-12U(Sp3-TerraformNet-12U.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2105051034\Sp3-TerraformNet-12U.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Sp3-TerraformNet-1U(Sp3-TerraformNet-1U.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2105051034\Sp3-TerraformNet-1U.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Sp3-TerraformNet-2U(Sp3-TerraformNet-2U.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2105051034\Sp3-TerraformNet-2U.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Sp3-TerraformNet-4U(Sp3-TerraformNet-4U.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2105051034\Sp3-TerraformNet-4U.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Sp3-TerraformNet-6U(Sp3-TerraformNet-6U.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2105051034\Sp3-TerraformNet-6U.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Sp3-TerraformNet-8U(Sp3-TerraformNet-8U.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2105051034\Sp3-TerraformNet-8U.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Clus_RWall_Fence#01(Clus_RWall_Fence#01.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2254730225\Clus_RWall_Fence#01.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Clus_RWall_Fence#01_half(Clus_RWall_Fence#01_half.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2254730225\Clus_RWall_Fence#01_half.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Clus_RWall_Fence#02(Clus_RWall_Fence#02.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2254730225\Clus_RWall_Fence#02.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Clus_RWall_Fence#02_half(Clus_RWall_Fence#02_half.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2254730225\Clus_RWall_Fence#02_half.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Clus_RWall_Grass#01(Clus_RWall_Grass#01.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2254730225\Clus_RWall_Grass#01.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Clus_RWall_Narrow#01(Clus_RWall_Narrow#01.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2254730225\Clus_RWall_Narrow#01.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Clus_RWall_Plain(Clus_RWall_Plain.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2254730225\Clus_RWall_Plain.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Clus_RWall_Soundwall#01(Clus_RWall_Soundwall#01.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2254730225\Clus_RWall_Soundwall#01.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Clus_RWall_Soundwall#01_half(Clus_RWall_Soundwall#01_half.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2254730225\Clus_RWall_Soundwall#01_half.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Clus_RWall_Wall#01(Clus_RWall_Wall#01.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2254730225\Clus_RWall_Wall#01.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Clus_RWall_Wall#01_half(Clus_RWall_Wall#01_half.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2254730225\Clus_RWall_Wall#01_half.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>r69-retaining-wall-1-net(r69-retaining-wall-1-net.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2409349028\r69-retaining-wall-1-net.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>r69-retaining-wall-1-prop(r69-retaining-wall-1-prop.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2409349028\r69-retaining-wall-1-prop.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>r69-retaining-wall-2-net(r69-retaining-wall-2-net.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2409349028\r69-retaining-wall-2-net.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>r69-retaining-wall-2-prop(r69-retaining-wall-2-prop.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2409349028\r69-retaining-wall-2-prop.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>r69-retaining-wall-2p-net(r69-retaining-wall-2p-net.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2409349028\r69-retaining-wall-2p-net.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>r69-retaining-wall-3-net(r69-retaining-wall-3-net.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2409349028\r69-retaining-wall-3-net.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>r69-retaining-wall-3-prop-1(r69-retaining-wall-3-prop-1.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2409349028\r69-retaining-wall-3-prop-1.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>r69-retaining-wall-3-prop-2(r69-retaining-wall-3-prop-2.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2409349028\r69-retaining-wall-3-prop-2.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>r69-retaining-wall-3-prop-3(r69-retaining-wall-3-prop-3.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2409349028\r69-retaining-wall-3-prop-3.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>r69-retaining-wall-3-prop-4(r69-retaining-wall-3-prop-4.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2409349028\r69-retaining-wall-3-prop-4.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>r69-retaining-wall-3-prop-5(r69-retaining-wall-3-prop-5.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2409349028\r69-retaining-wall-3-prop-5.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>r69-retaining-wall-3-prop-6(r69-retaining-wall-3-prop-6.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2409349028\r69-retaining-wall-3-prop-6.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>ShibaInu(ShibaInu.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2842402923\ShibaInu.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Lower Seasoned Concrete Wall(Lower Seasoned Concrete Wall.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2905962920\Lower Seasoned Concrete Wall.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Seasoned Concrete Wall(Seasoned Concrete Wall.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2905962920\Seasoned Concrete Wall.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Seasoned White Concrete Wall(Seasoned White Concrete Wall.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2905962920\Seasoned White Concrete Wall.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>NewAsset(NewAsset.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2949679321\NewAsset.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Cherry Blossom 2(Cherry Blossom 2.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2953236892\Cherry Blossom 2.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>CherryBlossom 3(CherryBlossom 3.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2953236892\CherryBlossom 3.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>CO-Boreal-Theme(CO-Boreal-Theme.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2954236385\CO-Boreal-Theme.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>CO-European-Theme(CO-European-Theme.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2954236385\CO-European-Theme.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>CO-Temperate-Theme(CO-Temperate-Theme.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2954236385\CO-Temperate-Theme.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>CO-Tropical-Theme(CO-Tropical-Theme.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2954236385\CO-Tropical-Theme.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>CO-Winter-Theme(CO-Winter-Theme.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\2954236385\CO-Winter-Theme.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Texas U-Turn(Texas U-Turn.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\405917643\Texas U-Turn.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Timboh's Turbine Interchange II(Timboh's Turbine Interchange.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\406269372\Timboh's Turbine Interchange.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Timboh's Cloverleaf Interchange(Timboh's Cloverleaf Interchange.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\406278205\Timboh's Cloverleaf Interchange.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Timboh's Windmill Interchange(Timboh's Windmill Interchange.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\406646871\Timboh's Windmill Interchange.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Boulder Rapids(Boulder Rapids v2.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\409024545\Boulder Rapids v2.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Timboh's Compact Stack Interchg.(Timboh's Compact Stack Interchg%002E.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\409158845\Timboh's Compact Stack Interchg%002E.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Timboh's A-4 Parclo Interchange(Timboh's A-4 Parclo Interchange.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\410030389\Timboh's A-4 Parclo Interchange.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Timboh's A-Trumpet Interchange(Timboh's A-Trumpet Interchange.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\410030736\Timboh's A-Trumpet Interchange.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Timboh's S-Dir. B-Trumpet Inte.(Timboh's S-Dir%002E B-Trumpet Inte%002E.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\411400601\Timboh's S-Dir%002E B-Trumpet Inte%002E.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Timboh's Y-Stack Interchange(Timboh's Y-Stack Interchange.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\412785623\Timboh's Y-Stack Interchange.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Timboh's Diverging Diamond Inte.(Timboh's Diverging Diamond Inte%002E.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\415450715\Timboh's Diverging Diamond Inte%002E.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Tenasi River(Tenasi River.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\418775081\Tenasi River.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Pizza Hut(Pizza Hut.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\425295798\Pizza Hut.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>LargeRecyclingCenter(LargeRecyclingCenter.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\432840529\LargeRecyclingCenter.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Delorean(Delorean.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\446194902\Delorean.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Volkswagen Bus Multi(Volkswagen Bus Multi.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\446728915\Volkswagen Bus Multi.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>NLFireAtego(NLFireAtego.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\447073862\NLFireAtego.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>NLFireLadder(NLFireLadder.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\447090509\NLFireLadder.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Cargo ship After Dark(Cargo ship After Dark.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\448358685\Cargo ship After Dark.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>D3S MB Citaro G (O530) '11(D3S MB Citaro G (O530) '11.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\450635180\D3S MB Citaro G (O530) '11.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>TeslaModelS(Tesla Model S.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\453610208\Tesla Model S.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>D3S MB Sprinter Ambulance '06(D3S MB Sprinter Ambulance '06.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\454589269\D3S MB Sprinter Ambulance '06.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>D3S MB Sprinter Polizei '06(D3S MB Sprinter Polizei '06.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\454824485\D3S MB Sprinter Polizei '06.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Volkswagen Golf GTI 2010(Volkswagen Golf GTI 2010.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\456120777\Volkswagen Golf GTI 2010.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>D3S MB Actros MP IV '11 (III)(D3S MB Actros MP IV '11 (III).crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\458977544\D3S MB Actros MP IV '11 (III).crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Lamborghini Aventador LP700-4(Lamborghini Aventador LP700-4.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\459175754\Lamborghini Aventador LP700-4.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>D3S MB Actros MP IV '11 (BDFI)(D3S MB Actros MP IV '11 (BDFI).crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\459291513\D3S MB Actros MP IV '11 (BDFI).crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Scania R Streamline (Ore)(Scania R Streamline, ore.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\460353331\Scania R Streamline, ore.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>D3S Ford Crown Victoria Inter(D3S Ford Crown Victoria Inter.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\465024593\D3S Ford Crown Victoria Inter.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>D3S Solaris Urbino 18 '15 PROMO(D3S Solaris Urbino 18 '15 PROMO.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\469808750\D3S Solaris Urbino 18 '15 PROMO.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>D3S Solaris Urbino 18 '15 PROMO2(D3S Solaris Urbino 18 '15 PROMO2.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\469808750\D3S Solaris Urbino 18 '15 PROMO2.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>D3S Solaris Urbino 18 '15 PROMO3(D3S Solaris Urbino 18 '15 PROMO3.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\469808750\D3S Solaris Urbino 18 '15 PROMO3.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>D3S Solaris Urbino 18 '15 PROMO4(D3S Solaris Urbino 18 '15 PROMO4.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\469808750\D3S Solaris Urbino 18 '15 PROMO4.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>D3S Solaris Urbino 18 '15(D3S Solaris Urbino 18 '15.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\469808750\D3S Solaris Urbino 18 '15.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Range Rover Evoque(Range Rover Evoque.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\470607508\Range Rover Evoque.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Fiat 500 2008(Fiat 500 2008.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\471085144\Fiat 500 2008.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>D3S Volvo 7900 Hybrid '11(D3S Volvo 7900 Hybrid '11.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\472470218\D3S Volvo 7900 Hybrid '11.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>ADSmart(ADSmart.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\473614876\ADSmart.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Volvo FE (2015)(Volvo FE (2015).crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\475870485\Volvo FE (2015).crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>D3S Solaris Urbino 24 '15(D3S Solaris Urbino 24 '15.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\477823125\D3S Solaris Urbino 24 '15.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>(AD) Brinks Armored Car((AD) Brinks Armored Car.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\479845867\(AD) Brinks Armored Car.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>AUDI R8 LM(AUDI R8 LM.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\481322443\AUDI R8 LM.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>VW Transporter AF update(VW Transporter AF update.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\482148113\VW Transporter AF update.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>mustang 2.0(mustang 2%002E0.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\484427955\mustang 2%002E0.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Mazda Miata(Mazda Miata.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\485228953\Mazda Miata.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Supra(Supra.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\496159540\Supra.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Union Pacific Cargo Train(Union Pacific Cargo Train.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\497362717\Union Pacific Cargo Train.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Zed68-Cadillac66Hearse(Zed68-Cadillac66Hearse.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\500277782\Zed68-Cadillac66Hearse.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>UPS_truck AD(UPS_truck AD.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\510632208\UPS_truck AD.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>ADJeep(ADJeep.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\512662768\ADJeep.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Scrap Metal Truck(Scrap Metal Truck.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\522306367\Scrap Metal Truck.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Timboh's SPUPCLO Interchange(Timboh's SPUPCLO Interchange.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\529645954\Timboh's SPUPCLO Interchange.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>MyLUT(MyLUT.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\531752833\MyLUT.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Shell Gas Truck(Shell Gas Truck.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\532884994\Shell Gas Truck.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Cities Airlines 787(Cities Airlines 787.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\535298493\Cities Airlines 787.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>D3S Ford Crown Victoria Taxi(D3S Ford Crown Victoria Taxi.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\537563385\D3S Ford Crown Victoria Taxi.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Maersk Line Cargo Ship(Maersk Line Cargo Ship.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\556269743\Maersk Line Cargo Ship.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Volvo Fire Truck Checkered(Volvo Fire Truck Checkered.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\560666593\Volvo Fire Truck Checkered.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>ZED68-1959Cadillac(ZED68-1959Cadillac.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\565104353\ZED68-1959Cadillac.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Telescope Dish(Telescope Dish.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\578880823\Telescope Dish.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Silverwind Casino(Silverwind Casino.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\585329782\Silverwind Casino.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Bollard(Bollard.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\609644643\Bollard.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Curved Avenue Light(Curved Avenue Light.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\609644643\Curved Avenue Light.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Curved Street Light(Curved Street Light.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\609644643\Curved Street Light.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Ground Light(Ground Light.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\609644643\Ground Light.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Light Column(Light Column.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\609644643\Light Column.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>LPS Avenue Light(LPS Avenue Light.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\609644643\LPS Avenue Light.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>LPS Street Light(LPS Street Light.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\609644643\LPS Street Light.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Park Light Yellow(Park Light Yellow.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\609644643\Park Light Yellow.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Park Light(Park Light.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\609644643\Park Light.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Reflective Light Double(Reflective Light Double.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\609644643\Reflective Light Double.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Reflective Light Single(Reflective Light Single.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\609644643\Reflective Light Single.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Retro Avenue Light(Retro Avenue Light.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\609644643\Retro Avenue Light.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Retro Street Light(Retro Street Light.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\609644643\Retro Street Light.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Spiral Lamp(Spiral Lamp.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\609644643\Spiral Lamp.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Spot Light Yellow(Spot Light Yellow.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\609644643\Spot Light Yellow.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Spot Light(Spot Light.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\609644643\Spot Light.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Stainless Avenue Light(Stainless Avenue Light.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\609644643\Stainless Avenue Light.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Stainless Street Light(Stainless Street Light.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\609644643\Stainless Street Light.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Suspended Avenue Light(Suspended Avenue Light.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\609644643\Suspended Avenue Light.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Suspended Street Light(Suspended Street Light.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\609644643\Suspended Street Light.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Swan Light L(Swan Light L.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\609644643\Swan Light L.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Swan Light S(Swan Light S.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\609644643\Swan Light S.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Thylia Avenue Light(Thylia Avenue Light.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\609644643\Thylia Avenue Light.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Thylia Promenade Light(Thylia Promenade Light.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\609644643\Thylia Promenade Light.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Thylia Street Light(Thylia Street Light.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\609644643\Thylia Street Light.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Triple Lamp Post(Triple Lamp Post.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\609644643\Triple Lamp Post.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Utility Pole(Utility Pole.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\609644643\Utility Pole.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Spring Valley Theme(Spring Valley Theme.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\633047095\Spring Valley Theme.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>ProvenceTrop Final(ProvenceTrop Final.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\633264792\ProvenceTrop Final.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Northern Europia(Northern Europia.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\633845925\Northern Europia.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>crx(crx.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\645487092\crx.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Banespa Building(Banespa Building.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\646416166\Banespa Building.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>sc-lfdd(ScaniaCitywideDDv1%002E1.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\658859533\ScaniaCitywideDDv1%002E1.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Ford Explorer Interceptor SUV(Ford Explorer Interceptor SUV.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\661237550\Ford Explorer Interceptor SUV.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Natural Beauty V1.1(Natural Beauty.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\668646020\Natural Beauty.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Tropicity Vanilla LUT Fix(Tropicity Vanilla LUT Fix.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\669255469\Tropicity Vanilla LUT Fix.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Mine Truck(Mine Truck.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\673877019\Mine Truck.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Car Transporter A(Car Transporter A.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\693953856\Car Transporter A.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>K4 B777 - American Airlines(K4 B777 - American Airlines.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\707053531\K4 B777 - American Airlines.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>D3S MB Citaro CapaCity L (H) '14(D3S MB Citaro CapaCity L (H) '14.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\708670839\D3S MB Citaro CapaCity L (H) '14.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Fiat 500 with Eriba(Fiat 500 with Eriba.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\708807833\Fiat 500 with Eriba.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Austrian Alps: Wolfgangsee(Austria Wolfgangsee v2.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\714924954\Austria Wolfgangsee v2.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>blackwiddow Spiral Highway Exit(blackwiddow Spiral Highway Exit.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\770131399\blackwiddow Spiral Highway Exit.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Lönnebay Universal(Loennebay.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\775325532\Loennebay.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>MBSprinter Road Maintenance(MBSprinter Road Maintenance.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\811508908\MBSprinter Road Maintenance.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>Porsche 991 Turbo S(Porsche 991 Turbo S.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\854173256\Porsche 991 Turbo S.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>roadbarrier16x3m(roadbarrier16x3m.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\873681008\roadbarrier16x3m.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>roadbarrier1x3m(roadbarrier1x3m.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\873681008\roadbarrier1x3m.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>roadbarrier2x16x3m(roadbarrier2x16x3m.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\873681008\roadbarrier2x16x3m.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>roadbarrier4x3m(roadbarrier4x3m.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\873681008\roadbarrier4x3m.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>roadbarrierplastic16x2m(roadbarrierplastic16x2m.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\873681008\roadbarrierplastic16x2m.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>roadbarrierplastic2x2m(roadbarrierplastic2x2m.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\873681008\roadbarrierplastic2x2m.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>roadbarrierrw16x3m(roadbarrierrw16x3m.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\873681008\roadbarrierrw16x3m.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>roadbarrierrw1x3m(roadbarrierrw1x3m.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\873681008\roadbarrierrw1x3m.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>roadbarrierrw4x3m(roadbarrierrw4x3m.crp)</DisplayText>
+      <IncludedPath>%WORKSHOP%\873681008\roadbarrierrw4x3m.crp</IncludedPath>
+    </Asset>
+    <Asset>
+      <IsIncluded>true</IsIncluded>
+      <DisplayText>123_f1270893(IMT_Intersection_123_5f7e2975.crp)</DisplayText>
+      <IncludedPath>%LOCALAPPDATA%\Addons\Assets\IMT_Intersection_123_5f7e2975.crp</IncludedPath>
+    </Asset>
+  </Assets>
+  <ExcludedDLCs>
+    <DLC>MusicDLCs</DLC>
+    <DLC>MusicFestival</DLC>
+    <DLC>Christmas</DLC>
+  </ExcludedDLCs>
+  <LoadEnabled>true</LoadEnabled>
+  <LoadUsed>true</LoadUsed>
+</LoadOrderProfile>

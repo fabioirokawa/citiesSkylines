@@ -1,6 +1,6 @@
 # citiesSkylines
 
-## [Mod/Plugin para gerenciar mods: Skyve]
+## Mod/Plugin para gerenciar mods: Skyve
 
 ## [Skip Paradox launcher](https://github.com/kianzarrin/LoadOrder/wiki/skip-paradox-launcher#2--set-steam-launch-options)
 
